@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EAD/src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container/Hibernate"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="D:/2 - Faculdade/4º - P/3 - DESENV. APP WEB II/apache-tomcat-7.0.72-windows-x64"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

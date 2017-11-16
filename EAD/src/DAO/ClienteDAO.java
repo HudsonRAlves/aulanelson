@@ -10,7 +10,7 @@ import util.HibernateUtil;
 import util.ServiceLocatorUtil;
 
 public class ClienteDAO extends GenericDaoImpl<Cliente> {
-
+llllllllllllllllllllllllllllllllllllllllllllll
 	public ClienteDAO() {
 		super(Cliente.class);
 	}
