@@ -9,8 +9,6 @@ import entidade.Cliente;
 import util.HibernateUtil;
 import util.ServiceLocatorUtil;
 
-testestestestezste
-
 public class ClienteDAO extends GenericDaoImpl<Cliente> {
 
 	public ClienteDAO() {
